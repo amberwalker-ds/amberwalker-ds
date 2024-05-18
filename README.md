@@ -1,4 +1,4 @@
-# Hello 👋, I'm Amber,
+# Hello 👋, I'm Amber!
 
 I'm an aspiring Data Scientist currently studying at the Barcelona School of Economics, set to graduate with a master's degree in July 2024. With a solid foundation in Python, R, and SQL, I am passionate about leveraging data to drive insights and innovation. I discovered my passion for the technical side of projects while working as a project coordinator at a company specializing in automation technology. Throughout my academic career, I have tackled numerous projects, both solo and collaboratively, sharpening my skills and deepening my understanding of the theory, the math, and the application of data science. I'm excited to bring my skills to a dynamic company with a meaningful mission, where I can continue to grow and make a tangible impact. Always curious and constantly learning, and committed to advancing in the field of data science beyond graduation!
 
