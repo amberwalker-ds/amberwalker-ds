@@ -19,9 +19,6 @@ I'm an aspiring Data Scientist currently studying at the Barcelona School of Eco
   - **Natural Language Processing:** NLTK, SpaCy, Gensim,Transformers (Hugging Face)
   - **Database Management:** MySQL, PostgreSQL
   - **Tools and Technologies:** Git, Jupyter Notebooks, Google Collab
-- 🚀 **Projects:**
-  - Developed and implemented a forecasting model to predict the onset of a Peace Agreemnt signing in countries
-  - Collaborated on a project using sentiment analysis to analyze the relationship between earnings calls and stock prices
 - 🌱 **Learning and Growth:**
   - Continuously enhancing my skills through courses, workshops, and hands-on projects (DataCamp, Kaggle)
   - Passionate about applying data science to solve real-world problems and contribute to meaningful initiatives
