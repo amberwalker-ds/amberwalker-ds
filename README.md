@@ -1,16 +1,15 @@
 # Hello 👋, I'm Amber!
 
-Hi, I’m Amber Walker, a Data Scientist with a strong drive for solving complex problems and 
-transforming data into actionable insights. With a Master’s in Data Science and a 
-strong background in both tech and management, I bridge the gap between technical expertise and 
-real-world impact. My unique blend of skills helps me to not only develop innovative 
-solutions but also effectively communicate their value to stakeholders.
+  Hi, I’m Amber Walker—a Data Scientist who loves taking on tough problems and turning data into insights that actually matter. 
+  With a Master’s in Data Science and experience in both tech and management, I bring together technical expertise and real-world impact. 
+  My unique blend of skills helps me to not only come up with innovative 
+  solutions but also effectively communicate their value to stakeholders.
 
-Through my blog and personal projects, I’ve built a reputation for simplifying dense, 
-technical topics into actionable insights. I’m always on the lookout for opportunities to work on 
-innovative projects—whether as a freelance collaborator or as part of a forward-thinking 
-organization. If you’re looking for a data scientist who combines technical skill with a practical 
-mindset, let’s connect!
+  Through my blog and personal projects, I’m a building a reputation for simplifying dense, 
+  technical topics into actionable insights. I’m always on the lookout for opportunities to work on 
+  innovative projects—whether as a freelance collaborator or as part of a forward-thinking 
+  organization. If you’re looking for a data scientist who combines technical skill with a practical 
+  mindset, let’s connect!
 
 ## 📫 Connect with Me
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@datawithamber)
