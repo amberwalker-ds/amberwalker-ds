@@ -40,6 +40,3 @@
   - **Database Management:** MySQL, PostgreSQL
   - **Tools and Technologies:** Git, Jupyter Notebooks, Google Collab
   - **Cloud Environments:** AWS, Azure, GCP, Heroku
-  <p>
-      Have questions or feedback? Don’t hesitate to <a href="amberwalker907@gamil.com" aria-label="Email">reach out</a>. I’d love to hear from you!
-  </p>
