@@ -25,7 +25,7 @@ mindset, let’s connect!
   - MSc in Data Science, Barcelona School of Economics (2023–2024)
   - BBA in Marketing, The University of Texas at San Antonio (2018–2021)
 - 📝 **Professional Experience:**
-  - Data Scientist at Sandcat IT (Freelance Project), LLC (2024 - Now)
+  - Data Scientist at Sandcat IT, LLC (Freelance Project) (2024 - Now)
     - Developed and currently finalizing the deployment of a predictive model using XGBoost to estimate the market price of used cars in Latvia, supporting accurate price comparisons and ranking the best deals for potential buyers.
     - Built an end-to-end model pipeline, handling data preprocessing, feature engineering, and model training, with deployment in progress to enable real-time predictions.
     - Achieved an MAE of 720 and $R^2$ of approximately 0.96, indicating strong model performance in predicting prices accurately.
