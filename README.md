@@ -19,7 +19,7 @@
 
 ## About Me
 
-- 🌍 **Location:** San Antonio, TX
+- 🌍 **Location:** Austin, TX
 - 🎓 **Education:**
   - MSc in Data Science, Barcelona School of Economics (2023–2024)
   - BBA in Marketing, The University of Texas at San Antonio (2018–2021)
